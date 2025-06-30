@@ -1,0 +1,3 @@
+[submodule "zkp/zket-core-program"]
+	path = zkp/zket-core-program
+	url = https://github.com/ethereum/zket-core-program.git
